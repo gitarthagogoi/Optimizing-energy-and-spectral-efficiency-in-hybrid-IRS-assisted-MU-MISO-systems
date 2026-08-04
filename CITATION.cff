@@ -2,16 +2,30 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the associated paper."
 title: "Hybrid IRS-Aided MU-MISO — Reference Simulation Code"
 authors:
-  - family-names: "<FILL IN>"
-    given-names: "<FILL IN>"
+  - family-names: "Gogoi"
+    given-names: "Gitartha"
+  - family-names: "Singh"
+    given-names: "Arun Kumar"
+  - family-names: "Vishwakarma"
+    given-names: "Pradeep"
+  - family-names: "Sur"
+    given-names: "Samarendra Nath"
 preferred-citation:
   type: article
-  title: "<PAPER TITLE — fill in>"
+  title: "Optimizing energy and spectral efficiency in hybrid IRS-assisted MU-MISO systems through power-aware element allocation"
   authors:
-    - family-names: "<FILL IN>"
-      given-names: "<FILL IN>"
+    - family-names: "Gogoi"
+      given-names: "Gitartha"
+    - family-names: "Singh"
+      given-names: "Arun Kumar"
+    - family-names: "Vishwakarma"
+      given-names: "Pradeep"
+    - family-names: "Sur"
+      given-names: "Samarendra Nath"
   journal: "Physical Communication"
   publisher:
     name: "Elsevier"
+  volume: 79
+  start: 103255
   year: 2026
   url: "https://www.sciencedirect.com/science/article/abs/pii/S1874490726002648"
