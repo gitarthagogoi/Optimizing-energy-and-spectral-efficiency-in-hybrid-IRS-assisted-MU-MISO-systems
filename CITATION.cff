@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Hybrid IRS-Aided MU-MISO — Reference Simulation Code"
+authors:
+  - family-names: "<FILL IN>"
+    given-names: "<FILL IN>"
+preferred-citation:
+  type: article
+  title: "<PAPER TITLE — fill in>"
+  authors:
+    - family-names: "<FILL IN>"
+      given-names: "<FILL IN>"
+  journal: "Physical Communication"
+  publisher:
+    name: "Elsevier"
+  year: 2026
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1874490726002648"
