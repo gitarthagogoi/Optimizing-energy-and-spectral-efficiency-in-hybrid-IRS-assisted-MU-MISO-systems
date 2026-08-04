@@ -5,7 +5,7 @@ studied in our work on **decode-and-forward (DF) aided hybrid Intelligent
 Reflecting Surface (IRS) precoding for multi-user MISO** downlink systems.
 
 > **Associated paper (Elsevier — *Physical Communication*, 2026):**
-> Optimizing energy and spectral efficiency in hybrid IRS-assisted MU-MISO systems through power-aware element allocation
+> Optimizing energy and spectral efficiency in hybrid IRS-assisted MU-MISO systems through power-aware element allocation.
 > Gitartha Gogoi, Arun Kumar Singh, Pradeep Vishwakarma, Samarendra Nath Sur, *Physical Communication*, Elsevier, 2026.
 > Article: https://www.sciencedirect.com/science/article/abs/pii/S1874490726002648
 
